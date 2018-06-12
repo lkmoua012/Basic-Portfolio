@@ -1,0 +1,35 @@
+*{
+    font-family: "Arial", "Heveltica Neue", Helvetica, sans-serif;
+}
+
+h2
+{
+    font-family: "Georgia", Times, "Times New Roman", serif;
+    color: teal;
+}
+
+.top
+{
+    color:gray;
+    background-color:white;
+    width:960px;
+    padding:75px;
+}
+
+.tophead
+{
+    background-color: teal;
+    color:white;
+    font-family: "Georgia", Times, "Times New Roman", serif;
+    float:left;
+    padding:10px;
+}
+
+body
+{
+    background-image: url("../images/leaves-pattern.png");
+}
+
+div{
+    float:right;
+}
