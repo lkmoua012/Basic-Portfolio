@@ -8,12 +8,18 @@ h2
     color: teal;
 }
 
+.headbox{
+    background-color:white;
+    margin: 0 0 25px 0;
+    padding:50px 100% 50px 100%;
+    width:960px;
+    float:left;
+}
+
 .top
 {
     color:gray;
     background-color:white;
-    width:960px;
-    padding:75px;
 }
 
 .tophead
@@ -22,7 +28,11 @@ h2
     color:white;
     font-family: "Georgia", Times, "Times New Roman", serif;
     float:left;
-    padding:10px;
+    position: absolute;
+    left: 200px;
+    padding: 20px;
+    margin: 0px;
+    top: 25px;
 }
 
 body
